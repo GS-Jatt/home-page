@@ -82,7 +82,7 @@ function Header() {
 
                 <GridItem>
                     <Img>
-                        <img src="public/img/37.png" />
+                        <img src="/img/37.png" />
                     </Img>
                 </GridItem>
             </StyledGrid>

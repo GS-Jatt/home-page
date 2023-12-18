@@ -75,7 +75,7 @@ function Section1() {
                 <GridItem>
                     <Ul>
                         <li>
-                            <img src="public/img/avatar1.png" alt="avatar" />
+                            <img src="/img/avatar1.png" alt="avatar" />
                             <div>
                                 <h5>Jenny Wilson</h5>
                                 <p>
@@ -85,7 +85,7 @@ function Section1() {
                             </div>
                         </li>
                         <li>
-                            <img src="public/img/avatar2.png" alt="avatar" />
+                            <img src="/img/avatar2.png" alt="avatar" />
                             <div>
                                 <h5>Jenny Wilson</h5>
                                 <p>
@@ -95,7 +95,7 @@ function Section1() {
                             </div>
                         </li>
                         <li>
-                            <img src="public/img/avatar3.png" alt="avatar" />
+                            <img src="/img/avatar3.png" alt="avatar" />
                             <div>
                                 <h5>Jenny Wilson</h5>
                                 <p>

@@ -37,19 +37,19 @@ const Card = styled.div`
 function Testimonials() {
     const data = [
         {
-            img: "public/img/Ellipse1.png",
+            img: "/img/Ellipse1.png",
             name: "Corey Korsgaard",
             Comment:
                 "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         },
         {
-            img: "public/img/Ellipse2.png",
+            img: "/img/Ellipse2.png",
             name: "Jakob Aminoff",
             Comment:
                 "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
         },
         {
-            img: "public/img/Ellipse3.png",
+            img: "/img/Ellipse3.png",
             name: "Carla Press",
             Comment:
                 "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",

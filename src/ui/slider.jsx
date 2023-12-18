@@ -81,22 +81,22 @@ function Slider() {
     const [sPosition, setSPosition] = useState(0);
     const data = [
         {
-            img: "public/img/card-image1.png",
+            img: "/img/card-image1.png",
             title: "Harvard University",
             address: "Cambridge, Massachusetts, UK",
         },
         {
-            img: "public/img/card-image2.png",
+            img: "/img/card-image2.png",
             title: "Oxford University",
             address: "Oxford, England",
         },
         {
-            img: "public/img/card-image3.png",
+            img: "/img/card-image3.png",
             title: "Stanford University",
             address: "Stanford, California",
         },
         {
-            img: "public/img/card-image4.png",
+            img: "/img/card-image4.png",
             title: "Nanyang University",
             address: "Nanyang Ave, Singapura",
         },

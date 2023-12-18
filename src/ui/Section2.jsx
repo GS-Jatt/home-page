@@ -123,7 +123,7 @@ function Section2() {
     return (
         <StyledSection2>
             <StyledGrid row={"54rem 42rem"}>
-                <img src="public/img/img47.png" alt="image" />
+                <img src="/img/img47.png" alt="image" />
                 <Card>
                     <h1>Book now</h1>
                     <p>
